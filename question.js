@@ -37,7 +37,7 @@ let questions=[
     {
         numb:4,
         question:"Codec refers to ?",
-        answer:"Coder-decodere",
+        answer:"Coder-decoder",
         options:[
             "Coder-decoder",
             "Co-declaration",
@@ -48,7 +48,7 @@ let questions=[
     {
         numb:5,
         question:"____ is the most important/powerful computer in a typical network ?",
-        answer:"DNetwork server",
+        answer:"Network server",
         options:[
             "Network client",
             "Network server",
